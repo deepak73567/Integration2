@@ -1,0 +1,19 @@
+{
+  "name": "webhook-server",
+  "version": "1.0.0",
+  "description": "Express webhook verification and listener server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "webhook",
+    "nodejs"
+  ],
+  "author": "Deepak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
